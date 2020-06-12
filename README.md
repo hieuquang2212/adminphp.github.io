@@ -1,2 +1,1 @@
-# adminphp.github.io
-admin page
+# adminpage.github.io

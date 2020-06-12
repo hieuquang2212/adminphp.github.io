@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.login_page {
+    width: 60%;
+    margin: auto;
+}
+.login_page h1 {
+    text-align:  center;
+    margin-top: 100px;
+}
+.login_content {
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    margin-top: 20px;
+}
+input#username, input#password {
+    margin-bottom: 15px;
+    margin-left: 10px;
+    width: 250px;
+    height: 25px;
+    outline: none;
+    border-radius: 1px;
+}
+input[type=submit] {
+    margin-top: 10px;
+    padding: 5px;
+}
+.register_link {
+    float: right;
+}
+.dropdown {
+    margin-right: 20px;
+}
+.nav-link {
+    color: black;
+}
+.quantity {
+    display: none;
+}
+.list-item {
+    border-bottom: 1px solid #e3e3e3;
+}
